@@ -1,19 +1,19 @@
 # x16r_hash
-The X16R hashing algorithm consists of 16 hashing algorithms operating in chain fashion with the ordering dependent on the last 8 bytes (16 nibbles) of the hash of the previous block. The algorithms are as follows:
-Order	Algo
-0	blake
-1	bmw
-2	groestl
-3	jh
-4	keccak
-5	skein
-6	luffa
-7	cubehash
-8	shavite
-9	simd
-10	echo
-11	hamsi
-12	fugue
-13	shabal
-14	whirlpool
-15	sha512
+The X16R hashing algorithm consists of 16 hashing algorithms operating in chain fashion with the ordering dependent on the last 8 bytes (16 nibbles) of the hash of the previous block. The algorithms are as follows:<br>
+Order	Algo<br>
+0	blake<br>
+1	bmw<br>
+2	groestl<br>
+3	jh<br>
+4	keccak<br>
+5	skein<br>
+6	luffa<br>
+7	cubehash<br>
+8	shavite<br>
+9	simd<br>
+10	echo<br>
+11	hamsi<br>
+12	fugue<br>
+13	shabal<br>
+14	whirlpool<br>
+15	sha512<br>
